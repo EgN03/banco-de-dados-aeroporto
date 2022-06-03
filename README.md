@@ -19,17 +19,18 @@ Foram feitas 6 tabelas:
  <p> - CompAeroporto</p>
  
  # Consultas
- <p> - Aeroporto</p>
- <p> - Companhia</p>
- <p> - Piloto</p>
+ <p> 1 - Uma consulta envolvendo duas tabelas com INNER JOIN </p>
+ <p> 2 - Uma consulta contendo GROUP BY envolvendo DUAS tabelas com INNER JOIN </p>
+ <p> 3 - Uma consulta contendo duas tabelas e utilizando RIGHT JOIN</p>
+ <p> 4 - Uma consulta contendo três ou mais tabelas (pode ser utilizado INNER JOIN,
+LEFT JOIN ou RIGHT JOIN)</p>
 
 
 # Autores
 
-<p> Enrique e Enzo são alunos do curso de Ciências da Computação pela Universidade Mackenzie e juntos fizeram esse trabalho de Banco de Dados.
-  
-  <a href="https://blog.rocketseat.com.br/author/thiago/">
-    
- <br />
+<p> Enrique e Enzo são alunos do curso de Ciências da Computação pela Universidade Mackenzie e juntos fizeram esse trabalho de Banco de Dados.</p>
+ <a href="https://github.com/EgN03">
  <p><sub><b>Enrique Granado</b></sub></a> <a href="https://github.com/EgN03" title=""</a></p>
- <p><sub><b>Enzo Damato</b></sub></a> <a href="https://github.com/enzoDamatoDev" title=""</a></p>
+ <a href="https://github.com/enzoDamatoDev">
+ <p><sub><b>Enzo Damato</b></sub><a/> <a href="https://github.com/enzoDamatoDev" title=""</a></p>
+ 
